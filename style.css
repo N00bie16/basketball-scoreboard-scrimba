@@ -70,4 +70,5 @@ body {
   border-radius: 5px;
   margin: 0 0.2em;
   background-color: transparent;
+  cursor: pointer;
 }
